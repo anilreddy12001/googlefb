@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c0fb7efa.css",
+    "main.js": "/static/js/main.bdb6b262.js",
+    "static/media/axiscades_white.png": "/static/media/axiscades_white.84a1fd01d990958f3925.png",
+    "static/media/Icon metro-target.svg": "/static/media/Icon metro-target.757d521eb646cad252ae.svg",
+    "static/media/Icon metro-chart-bars2.svg": "/static/media/Icon metro-chart-bars2.186b6632bb7dc3ea06a2.svg",
+    "index.html": "/index.html",
+    "main.c0fb7efa.css.map": "/static/css/main.c0fb7efa.css.map",
+    "main.bdb6b262.js.map": "/static/js/main.bdb6b262.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0fb7efa.css",
+    "static/js/main.bdb6b262.js"
+  ]
+}
